@@ -1,4 +1,4 @@
-# ProyectoFinal-DS-YPF
+# Rendimiento de Establecimientos Hospitalarios
 ## Grupo 17 - Fundación YPF - Ingenias+
 ### Introducción
 Este trabajo analiza cómo funcionaron los hospitales de la Provincia de Buenos Aires entre 2005 y 2022, el detalle del rendimiento de los establecimientos teniendo en cuenta la información de: cantidad de consultas odontológicas, médicas y paramédicas, interconsultas, egresos, camas disponibles, días de estadía, etc. A partir de datos oficiales, se observa el rendimiento de distintos centros de salud en cada municipio y región sanitaria. 
